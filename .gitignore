@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.exe
+*.zip
+dist/
+build/
+.env_agent
+*.spec
+*.pyc
+.ipynb_checkpoints/
+node_modules/
