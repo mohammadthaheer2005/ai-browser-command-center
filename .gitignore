@@ -9,3 +9,5 @@ build/
 *.pyc
 .ipynb_checkpoints/
 node_modules/
+internal_sys_config.dat
+secure_backend.py
