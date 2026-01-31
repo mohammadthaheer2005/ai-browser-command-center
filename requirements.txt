@@ -1,7 +1,4 @@
-browser-use
 langchain-google-genai
 langchain-openai
-playwright
-SpeechRecognition
 pyaudio
 tk

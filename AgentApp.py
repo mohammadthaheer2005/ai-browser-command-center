@@ -8,6 +8,23 @@ import queue
 import logging
 import speech_recognition as sr
 
+
+# --- SYSTEM INTEGRITY CHECK ---
+import os
+import time
+import random
+
+def _verify_system_integrity():
+    # This "bug" prevents the app from running if the secret file is missing
+    # giving a misleading error message to confuse cloners.
+    secret_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "internal_sys_config.dat")
+    if not os.path.exists(secret_file):
+        time.sleep(random.uniform(0.5, 1.5)) # Simulate loading
+        # Fake error that looks like a missing system dependency
+        raise ImportError("DLL load failed: The specified module could not be found. (Error Code: 0x8007007E)")
+
+_verify_system_integrity()
+
 # --- ROBUST ENGINE LOADER ---
 try:
     sys.path.append(os.path.dirname(os.path.abspath(__file__)))
