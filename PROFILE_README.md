@@ -1,41 +1,47 @@
 # 👋 Hello, I'm Mohammad Thaheer! 
-### 🚀 AI Engineer | Full-Stack Developer | Machine Learning Enthusiast
+> **AI Research Engineer | Systems Architect | Full-Stack Developer**
 
-I am a passionate software engineer focused on building intelligent systems that automate the web and solve real-world problems. I specialize in **Agentic AI**, **Deep Learning**, and **Full-Stack Automation**.
+I am a technical visionary focused on the intersection of **Autonomous Agentic Systems**, **Deep Learning**, and **Human-Centric Automation**. My work revolves around transforming static web environments into intelligent, actionable platforms using state-of-the-art LLM orchestration and computer vision.
 
 ---
 
-## 🛠️ My Tech Toolbox
-- **AI & ML:** Gemini 1.5 Pro, GPT-4o, TensorFlow, Keras, LangChain, Browser-Use.
-- **Languages:** Python (Advanced), JavaScript, Java, SQL.
-- **Automation:** Playwright, Selenium, PyInstaller (Desktop App Packaging).
-- **Web:** Streamlit, Flask, Modern HTML/CSS.
+## 🛰️ Core Technical Specialization
+*   **Agentic AI & LLMs:** Specialist in `browser-use` architecture, Gemini 1.5 Pro, and GPT-4o orchestration for high-fidelity web automation.
+*   **Machine Learning:** Fine-tuning MobileNetV2 and CNNs for specialized identification tasks; deep experience in predictive financial modeling.
+*   **Infrastructure:** Scalable desktop packaging (PyInstaller), asynchronous multi-threading, and secure session management.
+*   **Full-Stack Ecosystem:** Flask-driven backends, Streamlit interactive dashboards, and modern JavaScript environments.
 
-## 🌟 Featured Projects
+---
+
+## 🌟 Featured Engineering Projects
 
 ### [🤖 AI Browser Command Center](https://github.com/mohammadthaheer2005/ai-browser-command-center)
-A desktop AI agent with voice control that can "work" the browser like a human.  
-*Python | Playwright | Gemini 1.5 Pro*
+**The Ultimate Desktop Automation Hub.**  
+An autonomous agentic system featuring voice-to-intent execution, persistent session memory, and intelligent task chaining across disparate web platforms.
+*   *Stack: Python | Playwright | Gemini 1.5 Pro | Tkinter Architecture*
 
-### [🚗 Smart Car Sales Predictor](https://github.com/mohammadthaheer2005/Smart_Car_Sales_Predictor)
-A computer vision system that identifies car models and calculates real-time price depreciation and EMI.  
-*Deep Learning | MobileNetV2 | Streamlit*
+### [🚗 Smart Car Price Predictor](https://github.com/mohammadthaheer2005/Smart_Car_Sales_Predictor)
+**Computer Vision & Valuation Engine.**  
+A dual-tier system utilizing MobileNetV2 for vehicle identification paired with a Linear Regression pipeline to calculate real-time market depreciation and EMI simulations.
+*   *Stack: Deep Learning | MobileNetV2 | Flask | Scikit-learn*
 
 ### [🎓 AI Career Advisor](https://github.com/mohammadthaheer2005/career-advisor)
-An intelligent platform that maps out professional roadmaps using ML-driven skill gap analysis.  
-*Full-Stack Python | JavaScript*
+**Intelligent Professional Mapping.**  
+A data-driven advisor that analyzes skill gaps using NLP to architect personalized professional roadmaps and career trajectories.
+*   *Stack: Full-Stack Python | NLP Engine | Streamlit*
 
 ---
 
-## 📈 My Goals
-- ✨ Developing "Human-In-The-Loop" AI Agentic workflows.
-- 🏗️ Building scalable desktop and web applications.
-- 🤝 Open to collaborating on innovative AI/ML projects.
+## 🏗️ Ongoing Research & Goals
+- **Stateful Agents:** Developing "Memory-First" agentic workflows for long-running web tasks.
+- **Privacy-Preserving AI:** Architecting secure, local-first agent environments to protect user session data.
+- **Enterprise Scale:** Building robust distribution pipelines for AI-native desktop applications.
 
 ---
 
-## 📫 Get In Touch
+## 📫 Connect with Me
 - **GitHub:** [@mohammadthaheer2005](https://github.com/mohammadthaheer2005)
+- **LinkedIn:** [Your Profile Link]
 - **Email:** [mohammadthaheer02@gmail.com](mailto:mohammadthaheer02@gmail.com)
 
-"Code is the paintbrush; the screen is the canvas. Let's build something beautiful." 🚀
+*"Synthesizing logic and creativity to build the next generation of intelligent software."* 🚀
